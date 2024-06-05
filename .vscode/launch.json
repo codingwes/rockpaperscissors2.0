@@ -8,7 +8,8 @@
             "mainClass": "com.codedotorg.App",
             "projectName": "rockpaperscissors",
             "preLaunchTask": "Run Rock, Paper, Scissors Game",
-            "args": []
+            "args": [],
+            "vmArgs": "--module-path C:\\Users\\wmoog\\Downloads\\openjfx-22.0.1_windows-x64_bin-sdk\\javafx-sdk-22.0.1\\lib --add-modules javafx.controls,javafx.fxml"
         }
     ]
 }
